@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smitesh Dutta</h1>
-<h3 align="center">Innovating with Generative AI | Crafting Intelligent Systems and Scalable Solutions | Specializing in LLMs and Multi-Agent Applications</h3>
-
+<h3 align="center">Generative AI enthusiast, like to experience the potential of AI through building innovative applications and interactive tools.
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 📫 How to reach me **smiteshdutta@gmail.com**
