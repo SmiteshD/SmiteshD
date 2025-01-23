@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **smiteshdutta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14yyFC0Ibc-4LWONAqaP3F8ih20gKcJee/view?usp=sharing](https://drive.google.com/file/d/1JmqjDE67lkpHwOmTixCnBpVmmk3kGuL4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14yyFC0Ibc-4LWONAqaP3F8ih20gKcJee/view?usp=sharing].(https://drive.google.com/file/d/1JmqjDE67lkpHwOmTixCnBpVmmk3kGuL4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
