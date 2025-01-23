@@ -2,9 +2,9 @@
 <h3 align="center">Generative AI enthusiast, like to experience the potential of AI through building innovative applications and interactive tools.
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 📫 How to reach me **smiteshdutta@gmail.com**
+- 📫 How to reach me: **smiteshdutta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14yyFC0Ibc-4LWONAqaP3F8ih20gKcJee/view?usp=sharing]
+- 📄 Know about my experiences: https://drive.google.com/file/d/14yyFC0Ibc-4LWONAqaP3F8ih20gKcJee/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
