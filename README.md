@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smitesh Dutta</h1>
-<h3 align="center">Innovating with Generative AI | Crafting Intelligent Systems and Scalable Solutions | AI Engineer Specializing in LLMs and Multi-Agent Applications</h3>
+<h3 align="center">Innovating with Generative AI | Crafting Intelligent Systems and Scalable Solutions | Specializing in LLMs and Multi-Agent Applications</h3>
 
 <img align="right" alt="coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
