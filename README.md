@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/smitesh dutta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smitesh dutta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/smitesh-dutta-b42aa7215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smitesh dutta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
